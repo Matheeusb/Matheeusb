@@ -1,6 +1,9 @@
 ### Oi, meu nome é Matheus Schröder Bereta 👋
 
-Em breve!
+:bug: Atuo como QA há mais de 7 anos, com foco principalmente em testes automatizados.
+:coffee: Java é a linguagem em que possuo maior conhecimento e experiência.
+:iphone: Atualmente venho estudando desenvolvimento Android, utilizando Kotlin como linguagem.
+
 
 <!--
 **Matheeusb/Matheeusb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
