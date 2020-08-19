@@ -1,10 +1,10 @@
 ### Oi, meu nome é Matheus Schröder Bereta 👋
 
-:bug: Atuo como QA há mais de 7 anos, com foco principalmente em testes automatizados.
+:bug:  Atuo como QA há mais de 7 anos, com foco principalmente em testes automatizados.
 
-:coffee: Java é a linguagem em que possuo maior conhecimento e experiência.
+:coffee:  Java é a linguagem em que possuo maior conhecimento e experiência.
 
-:iphone: Atualmente venho estudando desenvolvimento Android, utilizando Kotlin como linguagem.
+:iphone:  Atualmente venho estudando desenvolvimento Android, utilizando Kotlin como linguagem.
 
 
 <!--
