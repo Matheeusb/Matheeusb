@@ -2,7 +2,9 @@
 
 :bug: Atuo como QA há mais de 7 anos, com foco principalmente em testes automatizados.
 
-:coffee: Java é a linguagem em que possuo maior conhecimento e experiência.
+:wrench: Possuo grande experiência com os frameworks Selenium (WebDriver e Grid), Appium e RestAssured.
+
+:coffee: Java é a linguagem de programação em que possuo maior conhecimento.
 
 :iphone: Atualmente venho estudando desenvolvimento Android, utilizando Kotlin como linguagem.
 
