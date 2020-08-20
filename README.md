@@ -17,3 +17,6 @@
   <a href="https://www.facebook.com/matheus.bereta.5" target="_blank">
     <img src="https://img.icons8.com/color/96/000000/facebook.png" alt="Facebook"/>
   </a>
+    <a href="https://open.spotify.com/user/matheus_bereta?si=0BjwDA1RQ9eLjO9H67cgBg" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="Spotify"/>
+  </a>
