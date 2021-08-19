@@ -1,12 +1,10 @@
 ### Oi, meu nome é Matheus Schröder Bereta 👋
 
-:bug: Atuo como *QA* há mais de 8 anos, com foco principalmente em testes automatizados.
+:bug: Atuo como *Desenvolvedor Mobile* com foco no framework *Flutter*.
 
-:wrench: Possuo grande experiência com os frameworks **Selenium** (WebDriver e Grid), **Appium** e **RestAssured**.
+:wrench: Possuo grande experiência com os frameworks de teste **Selenium** (WebDriver e Grid), **Appium** e **RestAssured**.
 
-:coffee: **Java** é a linguagem de programação em que possuo maior conhecimento.
-
-:iphone: Atualmente venho estudando desenvolvimento **Mobile**, utilizando **Flutter** como framework.
+:coffee: **Java** é a linguagem de programação em que possuo maior conhecimento, porém também domino *Dart* e *Kotlin*.
 
   <a href="https://www.linkedin.com/in/matheus-bereta-69480167/" target="_blank">
     <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn"/>
