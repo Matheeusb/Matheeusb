@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Solfácil](https://github.com/solfacil)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Matheeusb?tab=repositories](https://github.com/Matheeusb?tab=repositories)
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/Matheeusb?tab=repositories)
 
 - 💬 Ask me about **Flutter, Dart, Java, Automation Test, Clean Architecture, SOLID**
 
 - 📫 How to reach me **matheus_bereta@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/matheus-bereta-69480167/details/experience/](https://www.linkedin.com/in/matheus-bereta-69480167/details/experience/)
+- 📄 Know about my [experiences](https://www.linkedin.com/in/matheus-bereta-69480167/details/experience/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
