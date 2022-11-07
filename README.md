@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Bereta</h1>
 <h3 align="center">A Mobile Software Engineer</h3>
 
-- 🔭 I’m currently working on [Will Bank](https://www.linkedin.com/company/eusouwillbank/mycompany/)
+- 🔭 I’m currently working on [Solfácil](https://github.com/solfacil)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Matheeusb?tab=repositories](https://github.com/Matheeusb?tab=repositories)
 
