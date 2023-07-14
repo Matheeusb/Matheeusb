@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Bereta</h1>
 <h3 align="center">A Mobile Software Engineer</h3>
 
-- 🔭 I’m currently working on [Compass UOL]()
+- 🔭 I’m currently working on Compass UOL
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/Matheeusb?tab=repositories)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **matheus_bereta@hotmail.com**
 
-- 📄 Know about my [experiences](https://www.linkedin.com/in/matheus-bereta-69480167/details/experience/)
+- 📄 Know about my [experiences](https://www.linkedin.com/in/matheus-bereta/details/experience/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
