@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matheus Bereta</h1>
-<h3 align="center">A Mobile Software Engineer</h3>
+<h3 align="center">A Quality Engineer</h3>
 
 - 🔭 I’m currently working on Sicredi
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/Matheeusb?tab=repositories)
 
-- 💬 Ask me about **Flutter, Dart, Java, Automation Test, Clean Architecture, SOLID**
+- 💬 Ask me about **Java, Automation Test, Flutter, Dart, Clean Architecture, SOLID**
 
 - 📫 How to reach me **matheus_bereta@hotmail.com**
 
