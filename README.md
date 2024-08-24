@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, Automation Test, Flutter, Dart, Clean Architecture, SOLID**
 
-- I'm maintainer of [Appium Actions](https://github.com/appiumactions)
+- 🚀 I'm maintainer of [Appium Actions](https://github.com/appiumactions)
 
 - 📫 How to reach me **matheus_bereta@hotmail.com**
 
