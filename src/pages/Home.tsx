@@ -19,7 +19,7 @@ const Home = () => {
         <div className="flex flex-col md:flex-row items-center gap-8 py-12">
           <div className="w-48 h-48 rounded-full overflow-hidden">
             <img
-              src="src/images/profile.jpeg"
+              src="./profile.jpeg"
               alt="Matheus Bereta"
               className="w-full h-full object-cover"
             />

@@ -14,7 +14,7 @@ const Profile = () => {
               <div className="sticky top-24">
                 <div className="bg-gray-800 rounded-lg p-6">
                   <img
-                    src="src/images/profile.jpeg"
+                    src="./profile.jpeg"
                     alt="Matheus Bereta"
                     className="w-32 h-32 rounded-full mx-auto mb-4"
                   />
