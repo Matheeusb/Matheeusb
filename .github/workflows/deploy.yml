@@ -17,7 +17,6 @@ concurrency:
 
 env:
   NODE_OPTIONS: --max-old-space-size=6144
-  VITE_BASE_URL: ${{ github.event.repository.name }}
 
 jobs:
   deploy:
@@ -37,9 +36,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Build
-        run: npm run build
-        env:
-          VITE_BASE_URL: ${{ github.event.repository.name }}
+        run: |
+          export VITE_BASE_URL=$(echo ${{ github.repository }} | cut -d'/' -f2)
+          npm run build
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
