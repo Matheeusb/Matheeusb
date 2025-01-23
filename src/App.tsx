@@ -7,7 +7,7 @@ import Profile from './pages/Profile';
 
 function App() {
   return (
-    <Router>
+    <Router basename={import.meta.env.BASE_URL}>
       <div className="min-h-screen bg-gray-900">
         <Navbar />
         <Routes>
