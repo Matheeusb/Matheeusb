@@ -1,0 +1,72 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-900 text-gray-100;
+  }
+}
+
+.prose {
+  @apply text-gray-100;
+}
+
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4 {
+  @apply text-gray-100 mb-6 mt-8;
+}
+
+.prose h1 {
+  @apply text-4xl font-bold;
+}
+
+.prose h2 {
+  @apply text-3xl font-bold;
+}
+
+.prose h3 {
+  @apply text-2xl font-bold;
+}
+
+.prose p {
+  @apply text-gray-300 mb-6 leading-relaxed;
+}
+
+.prose a {
+  @apply text-cyan-400 hover:text-cyan-300;
+}
+
+.prose code {
+  @apply bg-gray-800 px-1.5 py-0.5 rounded-md text-gray-100;
+}
+
+.prose pre {
+  @apply bg-gray-800 rounded-lg p-4 mb-6;
+}
+
+.prose ul {
+  @apply text-gray-300 mb-6 list-disc pl-6 space-y-2;
+}
+
+.prose ol {
+  @apply text-gray-300 mb-6 list-decimal pl-6 space-y-2;
+}
+
+.prose li {
+  @apply mb-2;
+}
+
+.prose blockquote {
+  @apply border-l-4 border-cyan-400 bg-gray-800/50 pl-4 py-2 mb-6;
+}
+
+.nav-link {
+  @apply px-4 py-2 rounded-lg transition-colors hover:bg-cyan-500/20 hover:text-cyan-400;
+}
+
+.nav-link.active {
+  @apply bg-cyan-500/20 text-cyan-400;
+}
